@@ -1,0 +1,46 @@
+h1 {
+  
+  font-style: italic;
+  color: rgb(255, 102, 0);
+  font-family: monospace;
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding: 0 200px;
+}
+
+p2 {
+  font-style: oblique;
+}
+
+body {
+  background-color: yellowgreen;
+  margin: 5px;
+}
+div {
+  background-color: red;
+  padding: 3px;
+  color: white;
+  font-size: small;
+  margin-top: 20px;
+}
+img {
+  position: fixed;
+  left: 85;
+  bottom: 348;
+}
+#a {
+    margin: 50px;
+    background-color: pink;
+}
+#b {
+    margin: 20;
+    background-color:blue;
+}
+#ok {
+    size: 100px
+}
+
+#fun {
+    background-color: black;
+}
