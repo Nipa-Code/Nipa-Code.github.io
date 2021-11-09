@@ -1,1 +1,0 @@
-# nipadev.github.io
